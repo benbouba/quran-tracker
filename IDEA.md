@@ -44,7 +44,7 @@ The agent must execute these phases in order. Do not proceed to the next phase w
 PHASE 0: Repository & Project Foundation
 Objective: Create the codebase and foundational configuration.
 
-0.1: Create a new public GitHub repository named quran-tracker.
+0.1: Create a new private GitHub repository named quran-tracker.
 
 0.2: Initialize the React Native project: npx react-native init QuranTracker --template react-native-template-typescript.
 
